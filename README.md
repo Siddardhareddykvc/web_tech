@@ -1,7 +1,5 @@
 # web_tech
-yesterday login question ni copy paste chey
-naaku ikkada correct ga ravatle,
-vaste upload chestha le,
-time waste cheyyaku.
+https://github.com/Siddardhareddykvc/login_page
 
+copy pate from this login page repository)
 
