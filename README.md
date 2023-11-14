@@ -1,3 +1,2 @@
 # web_tech
-kk na 
-paper easy aa?
+vachindhi question ippude chusthunna 
